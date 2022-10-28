@@ -1,5 +1,5 @@
 # SP_course_floris
-Matlab script for the analysis of my project for the course Scientific Programming. 
+Matlab script (explore.m) for the analysis of my project for the course Scientific Programming. 
 The provided functions(rfps, doublecentering and unsupervisedRF2) are required to run the script, and in the case of the unsupervisedRF2 function I changed
 some things so please use this one. 
 
